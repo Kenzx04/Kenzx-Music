@@ -401,6 +401,8 @@ async def m_cb(b, cb):
 
 
 @Client.on_message(command("play") & other_filters)
+@errors
+@all_users
 async def play(_, message: Message):
     global que
     lel = await message.reply("🔄 **Sedang Memproses Lagu**")
