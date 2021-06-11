@@ -1,10 +1,10 @@
-<h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
+<h1 align="centre">🎵 KENZX MUSIC BOT 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@MusikManbot](https://t.me/MusikManbot)
+### Available on telegram as [@kenzxmusicbot](https://t.me/MusikManbot)
 
-<h2> Features 🔥 </h2>
+<h2> Features </h2>
 
 - Thumbnail Support
 - Playlist Support
